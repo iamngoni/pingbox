@@ -54,7 +54,7 @@ class _TycheSensitiveTextFieldState extends State<TycheSensitiveTextField> {
               Text(
                 widget.label!,
                 style: TextStyle(
-                  color: TycheColors.white,
+                  color: PingboxColors.white,
                   fontWeight: FontWeight.w400,
                   fontSize: sy(10),
                 ),
@@ -69,20 +69,20 @@ class _TycheSensitiveTextFieldState extends State<TycheSensitiveTextField> {
                 vertical: sy(7),
               ),
               decoration: BoxDecoration(
-                color: TycheColors.lightNavyBlue,
+                color: PingboxColors.lightNavyBlue,
                 borderRadius: BorderRadius.circular(10),
               ),
               child: TextFormField(
                 controller: widget.controller,
                 style: TextStyle(
-                  color: TycheColors.white,
+                  color: PingboxColors.white,
                   fontWeight: FontWeight.w400,
                   fontSize: sy(9),
                 ),
                 decoration: InputDecoration(
                   hintText: widget.hint,
                   hintStyle: TextStyle(
-                    color: TycheColors.white,
+                    color: PingboxColors.white,
                     fontWeight: FontWeight.w400,
                     fontSize: sy(9),
                   ),
@@ -91,11 +91,11 @@ class _TycheSensitiveTextFieldState extends State<TycheSensitiveTextField> {
                     onPressed: toggleObscureText,
                     icon: Icon(
                       obscureText ? Icons.visibility : Icons.visibility_off,
-                      color: TycheColors.white,
+                      color: PingboxColors.white,
                     ),
                   ),
                   errorStyle: const TextStyle(
-                    color: TycheColors.orange,
+                    color: PingboxColors.orange,
                   ),
                 ),
                 obscureText: widget.readOnly || obscureText,

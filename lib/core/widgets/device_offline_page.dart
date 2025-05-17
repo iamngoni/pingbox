@@ -25,7 +25,7 @@ class DeviceOfflinePage extends StatelessWidget {
     return RelativeBuilder(
       builder: (context, height, width, sy, sx) {
         return Scaffold(
-          backgroundColor: TycheColors.navyBlue,
+          backgroundColor: PingboxColors.navyBlue,
           body: SafeArea(
             child: Container(
               height: height,

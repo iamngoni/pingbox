@@ -8,11 +8,11 @@
 
 import 'package:flutter/material.dart';
 
-class TycheColors {
-  const TycheColors._();
+class PingboxColors {
+  const PingboxColors._();
 
   // Primary Colors
-  static const Color tycheBlue = Color(0xFF2B78E4);
+  static const Color pingBoxBlue = Color(0xFF2B78E4);
   //  static  grey
   static const Color grey = Color(0xFF808080);
 

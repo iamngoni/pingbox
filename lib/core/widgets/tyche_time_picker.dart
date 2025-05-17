@@ -60,7 +60,7 @@ class TycheTimePicker extends StatelessWidget {
                               vertical: sy(13.5),
                             ),
                             decoration: BoxDecoration(
-                              color: TycheColors.lightNavyBlue,
+                              color: PingboxColors.lightNavyBlue,
                               borderRadius: BorderRadius.circular(10),
                             ),
                             child: Text(
@@ -70,7 +70,7 @@ class TycheTimePicker extends StatelessWidget {
                                       .padLeft(2, '0')
                                   : '00',
                               style: TextStyle(
-                                color: TycheColors.white,
+                                color: PingboxColors.white,
                                 fontWeight: FontWeight.w400,
                                 fontSize: sy(9),
                               ),
@@ -88,7 +88,7 @@ class TycheTimePicker extends StatelessWidget {
                               vertical: sy(13.5),
                             ),
                             decoration: BoxDecoration(
-                              color: TycheColors.lightNavyBlue,
+                              color: PingboxColors.lightNavyBlue,
                               borderRadius: BorderRadius.circular(10),
                             ),
                             child: Text(
@@ -98,7 +98,7 @@ class TycheTimePicker extends StatelessWidget {
                                       .padLeft(2, '0')
                                   : '00',
                               style: TextStyle(
-                                color: TycheColors.white,
+                                color: PingboxColors.white,
                                 fontWeight: FontWeight.w400,
                                 fontSize: sy(9),
                               ),

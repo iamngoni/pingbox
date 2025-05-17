@@ -33,12 +33,12 @@ extension ContextExtensions<T> on BuildContext {
           content: Text(
             message,
             style: TextStyle(
-              color: isError ? TycheColors.white : TycheColors.navyBlue,
+              color: isError ? PingboxColors.white : PingboxColors.navyBlue,
               fontWeight: FontWeight.w500,
             ),
           ),
           duration: 3.seconds,
-          backgroundColor: isError ? TycheColors.orange : TycheColors.white,
+          backgroundColor: isError ? PingboxColors.orange : PingboxColors.white,
         ),
       );
 }

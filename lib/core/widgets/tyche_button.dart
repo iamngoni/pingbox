@@ -15,8 +15,8 @@ class TycheButton extends StatelessWidget {
   const TycheButton({
     required this.text,
     this.onTap,
-    this.color = TycheColors.navyBlue,
-    this.backgroundColor = TycheColors.lightBlue,
+    this.color = PingboxColors.navyBlue,
+    this.backgroundColor = PingboxColors.lightBlue,
     this.borderRadius = 30,
     this.verticalPadding = 10,
     this.loading = false,

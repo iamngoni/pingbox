@@ -16,7 +16,7 @@ import '../configs/colors.dart';
 
 class LoaderWidget extends StatelessWidget {
   const LoaderWidget({
-    this.color = TycheColors.white,
+    this.color = PingboxColors.white,
     super.key,
   });
 

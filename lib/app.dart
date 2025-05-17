@@ -15,21 +15,22 @@ import 'core/models/data/language.dart';
 import 'core/state/connectivity_status/connectivity_status_bloc.dart';
 import 'core/state/locale/locale_bloc.dart';
 import 'core/utils/dismiss_keyboard.dart';
+import 'core/utils/services.dart';
 import 'core/widgets/device_offline_page.dart';
 import 'core/widgets/loader_widget.dart';
 
-class TycheApp extends StatelessWidget {
-  const TycheApp({super.key});
+class PingboxApp extends StatelessWidget {
+  const PingboxApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return BlocBuilder<LocaleBloc, Language>(
       builder: (context, state) {
-        return MaterialApp(
-          title: 'Tyche',
+        return MaterialApp.router(
+          title: 'PingBox',
           theme: ThemeData(
             colorScheme: ColorScheme.fromSeed(
-              seedColor: TycheColors.navyBlue,
+              seedColor: PingboxColors.navyBlue,
             ),
             useMaterial3: true,
           ),
@@ -46,7 +47,7 @@ class TycheApp extends StatelessWidget {
                 builder: (context, state) {
                   if (state is Idle) {
                     return const ColoredBox(
-                      color: TycheColors.navyBlue,
+                      color: PingboxColors.white,
                       child: Center(
                         child: LoaderWidget(),
                       ),
@@ -57,18 +58,13 @@ class TycheApp extends StatelessWidget {
                     return const DeviceOfflinePage();
                   }
 
-                  return child!;
+                  return child ?? const SizedBox.shrink();
                 },
               ),
             );
           },
-          initialRoute: '/login',
-          routes: {
-            '/login': (BuildContext context) => const LoginPage(),
-            '/signup': (BuildContext context) => const SignupPage(),
-            '/home': (BuildContext context) => const HomePage(),
-            '/make-booking': (BuildContext context) => const MakeBookingPage(),
-          },
+          routeInformationParser: $routeParser,
+          routerDelegate: $routerDelegate,
         );
       },
     );

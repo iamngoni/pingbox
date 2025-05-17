@@ -1,6 +1,6 @@
-import 'package:pingbox/app/app.dart';
-import 'package:pingbox/bootstrap.dart';
+import 'app.dart';
+import 'bootstrap.dart';
 
 void main() {
-  bootstrap(() => const App());
+  bootstrap(PingboxApp.new);
 }

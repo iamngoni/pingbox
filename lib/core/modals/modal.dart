@@ -53,7 +53,7 @@ Future<T?> _showMaterialModal<T>(
 }) async {
   return showMaterialModalBottomSheet<T>(
     context: context,
-    barrierColor: TycheColors.white.withOpacity(0.3),
+    barrierColor: PingboxColors.white.withOpacity(0.3),
     shape: const RoundedRectangleBorder(
       borderRadius: BorderRadius.vertical(
         top: Radius.circular(20),
@@ -73,7 +73,7 @@ Future<T?> _showCupertinoModal<T>(
   return showCupertinoModalBottomSheet<T>(
     context: context,
     topRadius: const Radius.circular(20),
-    barrierColor: TycheColors.white.withOpacity(0.3),
+    barrierColor: PingboxColors.white.withOpacity(0.3),
     builder: (context) {
       return Material(
         child: _buildSizedBox(

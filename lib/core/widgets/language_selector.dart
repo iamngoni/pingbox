@@ -17,9 +17,9 @@ import '../utils/extensions.dart';
 
 class LanguageSelector extends StatefulWidget {
   const LanguageSelector({
-    this.iconColor = TycheColors.white,
-    this.textColor = TycheColors.white,
-    this.backgroundColor = TycheColors.lightNavyBlue,
+    this.iconColor = PingboxColors.white,
+    this.textColor = PingboxColors.white,
+    this.backgroundColor = PingboxColors.lightNavyBlue,
     super.key,
   });
 
@@ -63,7 +63,7 @@ class _LanguageSelectorState extends State<LanguageSelector> {
                             if (l == state)
                               Icon(
                                 Icons.check,
-                                color: TycheColors.navyBlue,
+                                color: PingboxColors.navyBlue,
                                 size: sy(10),
                               ),
                           ],

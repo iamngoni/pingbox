@@ -9,6 +9,8 @@
 import 'package:dio/dio.dart';
 
 import '../../injection.dart';
+import '../../routing/route_parser.dart';
+import '../../routing/router_delegate.dart';
 import '../services/network.dart';
 import '../services/scheduler.dart';
 import '../services/secure_storage.dart';
@@ -23,3 +25,7 @@ Dio get $dio => getIt<Dio>();
 NetworkService get $network => getIt<NetworkService>();
 
 SchedulingService get $scheduler => getIt<SchedulingService>();
+
+RouteParser $routeParser = RouteParser();
+
+AppRouterDelegate $routerDelegate = AppRouterDelegate();

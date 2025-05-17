@@ -20,7 +20,7 @@ class TycheDropdownButton<T> extends StatelessWidget {
     required this.onChanged,
     this.value,
     this.validator,
-    this.backgroundColor = TycheColors.lightNavyBlue,
+    this.backgroundColor = PingboxColors.lightNavyBlue,
     this.borderRadius = 10,
     this.itemBuilder,
     super.key,
@@ -53,14 +53,14 @@ class TycheDropdownButton<T> extends StatelessWidget {
             isExpanded: true,
             value: value,
             style: TextStyle(
-              color: TycheColors.white,
+              color: PingboxColors.white,
               fontWeight: FontWeight.w400,
               fontSize: sy(9),
             ),
             decoration: InputDecoration(
               hintText: hint,
               hintStyle: TextStyle(
-                color: TycheColors.white,
+                color: PingboxColors.white,
                 fontWeight: FontWeight.w400,
                 fontSize: sy(9),
               ),
@@ -73,7 +73,7 @@ class TycheDropdownButton<T> extends StatelessWidget {
                     Text(
                       item.toString(),
                       style: TextStyle(
-                        color: TycheColors.white,
+                        color: PingboxColors.white,
                         fontWeight: FontWeight.w400,
                         fontSize: sy(9),
                       ),
@@ -86,7 +86,7 @@ class TycheDropdownButton<T> extends StatelessWidget {
                 return Text(
                   item.toString(),
                   style: TextStyle(
-                    color: TycheColors.white,
+                    color: PingboxColors.white,
                     fontWeight: FontWeight.w400,
                     fontSize: sy(9),
                   ),
@@ -95,7 +95,7 @@ class TycheDropdownButton<T> extends StatelessWidget {
             },
             icon: Icon(
               CupertinoIcons.chevron_down,
-              color: TycheColors.white,
+              color: PingboxColors.white,
               size: sy(12),
             ),
             autovalidateMode: AutovalidateMode.onUserInteraction,

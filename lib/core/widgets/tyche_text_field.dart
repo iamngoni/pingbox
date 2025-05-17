@@ -20,7 +20,7 @@ class TycheTextField extends StatefulWidget {
     this.keyboardType = TextInputType.text,
     this.readOnly = false,
     this.maxLines = 1,
-    this.backgroundColor = TycheColors.lightNavyBlue,
+    this.backgroundColor = PingboxColors.lightNavyBlue,
     this.borderColor,
     this.borderRadius = 10,
     this.scrollController,
@@ -65,7 +65,7 @@ class _TycheTextFieldState extends State<TycheTextField> {
               Text(
                 widget.label!,
                 style: TextStyle(
-                  color: TycheColors.white,
+                  color: PingboxColors.white,
                   fontWeight: FontWeight.w400,
                   fontSize: sy(10),
                 ),
@@ -86,7 +86,7 @@ class _TycheTextFieldState extends State<TycheTextField> {
               child: widget.scrollController == null
                   ? TextFormField(
                       style: TextStyle(
-                        color: TycheColors.white,
+                        color: PingboxColors.white,
                         fontWeight: FontWeight.w400,
                         fontSize: sy(9),
                       ),
@@ -95,13 +95,13 @@ class _TycheTextFieldState extends State<TycheTextField> {
                       decoration: InputDecoration(
                         hintText: widget.hint,
                         hintStyle: TextStyle(
-                          color: TycheColors.white,
+                          color: PingboxColors.white,
                           fontWeight: FontWeight.w400,
                           fontSize: sy(9),
                         ),
                         border: InputBorder.none,
                         errorStyle: const TextStyle(
-                          color: TycheColors.orange,
+                          color: PingboxColors.orange,
                         ),
                         suffixIcon: widget.obscureText
                             ? IconButton(
@@ -109,7 +109,7 @@ class _TycheTextFieldState extends State<TycheTextField> {
                                   _obscureText
                                       ? Icons.visibility_off
                                       : Icons.visibility,
-                                  color: TycheColors.white,
+                                  color: PingboxColors.white,
                                   size: sy(12),
                                 ),
                                 onPressed: () {
@@ -130,7 +130,7 @@ class _TycheTextFieldState extends State<TycheTextField> {
                       controller: widget.scrollController,
                       child: TextFormField(
                         style: TextStyle(
-                          color: TycheColors.white,
+                          color: PingboxColors.white,
                           fontWeight: FontWeight.w400,
                           fontSize: sy(9),
                         ),
@@ -139,7 +139,7 @@ class _TycheTextFieldState extends State<TycheTextField> {
                         decoration: InputDecoration(
                           hintText: widget.hint,
                           hintStyle: TextStyle(
-                            color: TycheColors.white,
+                            color: PingboxColors.white,
                             fontWeight: FontWeight.w400,
                             fontSize: sy(9),
                           ),
@@ -150,7 +150,7 @@ class _TycheTextFieldState extends State<TycheTextField> {
                                     _obscureText
                                         ? Icons.visibility_off
                                         : Icons.visibility,
-                                    color: TycheColors.white,
+                                    color: PingboxColors.white,
                                     size: sy(12),
                                   ),
                                   onPressed: () {

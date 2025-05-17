@@ -44,7 +44,7 @@ class TycheDatePicker extends StatelessWidget {
                 vertical: sy(12),
               ),
               decoration: BoxDecoration(
-                color: TycheColors.lightNavyBlue,
+                color: PingboxColors.lightNavyBlue,
                 borderRadius: BorderRadius.circular(10),
               ),
               child: Column(
@@ -58,7 +58,7 @@ class TycheDatePicker extends StatelessWidget {
                               ? controller.value!.readableDate
                               : hint,
                           style: TextStyle(
-                            color: TycheColors.white,
+                            color: PingboxColors.white,
                             fontWeight: FontWeight.w400,
                             fontSize: sy(9),
                           ),
@@ -83,7 +83,7 @@ class TycheDatePicker extends StatelessWidget {
                         },
                         child: Icon(
                           Icons.calendar_month,
-                          color: TycheColors.white,
+                          color: PingboxColors.white,
                           size: sy(15),
                         ),
                       ),
@@ -99,7 +99,7 @@ class TycheDatePicker extends StatelessWidget {
                             child: Text(
                               state.errorText!,
                               style: TextStyle(
-                                color: TycheColors.orange,
+                                color: PingboxColors.orange,
                                 fontWeight: FontWeight.w400,
                                 fontSize: sy(7.5),
                               ),

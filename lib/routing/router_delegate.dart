@@ -9,6 +9,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
+import '../app/views/pages/landing.dart';
 import 'route.dart';
 
 class AppRouterDelegate extends RouterDelegate<PingboxRoute>
@@ -41,6 +42,7 @@ class AppRouterDelegate extends RouterDelegate<PingboxRoute>
 
     final Widget page = switch (path) {
       '/' => const LandingPage(),
+      _ => const LandingPage(),
     };
 
     return Navigator(
