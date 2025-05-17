@@ -16,6 +16,6 @@ _$APIResponseImpl _$$APIResponseImplFromJson(Map<String, dynamic> json) =>
 Map<String, dynamic> _$$APIResponseImplToJson(_$APIResponseImpl instance) =>
     <String, dynamic>{
       'success': instance.success,
-      'message': instance.message,
-      'data': instance.data,
+      if (instance.message case final value?) 'message': value,
+      if (instance.data case final value?) 'data': value,
     };
