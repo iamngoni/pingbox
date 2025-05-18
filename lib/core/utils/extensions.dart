@@ -9,22 +9,54 @@
 import 'package:flutter/material.dart';
 import 'package:handy_extensions/handy_extensions.dart';
 
+import '../../routing/route.dart';
+import '../../routing/router_delegate.dart';
 import '../configs/colors.dart';
 
 extension ContextExtensions<T> on BuildContext {
-  Future<T?> goTo({required String route}) =>
-      Navigator.of(this).pushNamed(route);
+  AppRouterDelegate get _routerDelegate =>
+      Router.of(this).routerDelegate as AppRouterDelegate;
 
-  Future<T?> goToAndReplace({required String route}) =>
-      Navigator.of(this).pushReplacementNamed(route);
+  /// Unified go: accepts a route path and optional arguments (used as query parameters)
+  void go(String route, {Map<String, dynamic> arguments = const {}}) {
+    final queryParams =
+        arguments.map((key, value) => MapEntry(key, value.toString()));
+    _routerDelegate.setNewRoutePath(
+      PingboxRoute(route, queryParameters: queryParams),
+    );
+  }
 
-  Future<T?> goToAndRemoveUntil({required String route}) =>
-      Navigator.of(this).pushNamedAndRemoveUntil(
-        route,
-        (route) => false,
+  /// Replace current page with a new one
+  void goToAndReplace(
+    String route, {
+    Map<String, dynamic> arguments = const {},
+  }) {
+    final queryParams = arguments.map((k, v) => MapEntry(k, v.toString()));
+    _routerDelegate
+      ..navigatorKey.currentState?.pop()
+      ..setNewRoutePath(
+        PingboxRoute(route, queryParameters: queryParams),
       );
+  }
 
-  void goBack({dynamic value}) => Navigator.of(this).pop(value);
+  /// Clears back stack and navigates to a new route
+  void goToAndRemoveUntil(
+    String route, {
+    Map<String, dynamic> arguments = const {},
+  }) {
+    final queryParams = arguments.map((k, v) => MapEntry(k, v.toString()));
+    final navigator = _routerDelegate.navigatorKey.currentState!;
+    while (navigator.canPop()) {
+      navigator.pop();
+    }
+    _routerDelegate.setNewRoutePath(
+      PingboxRoute(route, queryParameters: queryParams),
+    );
+  }
+
+  void goBack<T>({T? value}) {
+    Navigator.of(this).pop<T>(value);
+  }
 
   // notify
   void notify(String message, {bool isError = false}) =>

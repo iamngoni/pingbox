@@ -87,7 +87,7 @@ class _LandingPageState extends State<LandingPage> {
                     PingboxButton(
                       text: context.l10n.onboarding4Button,
                       onTap: () {
-                        context.goTo(route: '/app');
+                        context.go('/app');
                       },
                     )
                   else
