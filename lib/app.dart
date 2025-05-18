@@ -59,7 +59,11 @@ class PingboxApp extends StatelessWidget {
                     return const DeviceOfflinePage();
                   }
 
-                  return child ?? const SizedBox.shrink();
+                  return Builder(
+                    builder: (context) {
+                      return child ?? const SizedBox.shrink();
+                    },
+                  );
                 },
               ),
             );

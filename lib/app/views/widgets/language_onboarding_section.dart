@@ -13,6 +13,7 @@ import 'package:relative_scale/relative_scale.dart';
 import '../../../core/configs/colors.dart';
 import '../../../core/models/data/language.dart';
 import '../../../core/state/locale/locale_bloc.dart';
+import '../../../core/utils/extensions.dart';
 import '../../../core/widgets/pingbox_dropdown_button.dart';
 import '../../../l10n/l10n.dart';
 
@@ -88,8 +89,15 @@ class _LanguageOnboardingSectionState extends State<LanguageOnboardingSection> {
               value: language,
               onChanged: (v) {
                 if (v != null) {
-                  language = v;
-                  context.read<LocaleBloc>().add(SwitchLocale(v));
+                  if (v.isSupportedByFlutter) {
+                    language = v;
+                    context.read<LocaleBloc>().add(SwitchLocale(v));
+                  } else {
+                    context.notify(
+                      'Sorry, ${v.name} is not fully supported!',
+                      isError: true,
+                    );
+                  }
                 }
               },
             ),
