@@ -11,6 +11,7 @@ import 'package:handy_extensions/handy_extensions.dart';
 import 'package:relative_scale/relative_scale.dart';
 
 import '../../../core/configs/colors.dart';
+import '../../../core/widgets/pingbox_button.dart';
 import '../../../l10n/l10n.dart';
 import '../widgets/language_onboarding_section.dart';
 import '../widgets/onboarding_section.dart';
@@ -81,34 +82,40 @@ class _LandingPageState extends State<LandingPage> {
                     ),
                   ),
                   SizedBox(height: sy(16)),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: List.generate(totalPages, (i) {
-                      final isCurrentPage = i == currentPage;
-                      return Padding(
-                        padding: EdgeInsets.symmetric(horizontal: sx(8)),
-                        child: GestureDetector(
-                          onTap: () {
-                            setState(() => currentPage = i);
-                            _pageController.animateToPage(
-                              currentPage,
+                  if (currentPage == 3)
+                    PingboxButton(
+                      text: context.l10n.onboarding4Button,
+                    )
+                  else
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: List.generate(totalPages, (i) {
+                        final isCurrentPage = i == currentPage;
+                        return Padding(
+                          padding: EdgeInsets.symmetric(horizontal: sx(8)),
+                          child: GestureDetector(
+                            onTap: () {
+                              setState(() => currentPage = i);
+                              _pageController.animateToPage(
+                                currentPage,
+                                duration: 300.milliseconds,
+                                curve: Curves.easeInOut,
+                              );
+                            },
+                            child: AnimatedContainer(
                               duration: 300.milliseconds,
-                              curve: Curves.easeInOut,
-                            );
-                          },
-                          child: AnimatedContainer(
-                            duration: 300.milliseconds,
-                            width: sx(16),
-                            height: sx(16),
-                            decoration: BoxDecoration(
-                              shape: BoxShape.circle,
-                              color: isCurrentPage ? Colors.blue : Colors.grey,
+                              width: sx(16),
+                              height: sx(16),
+                              decoration: BoxDecoration(
+                                shape: BoxShape.circle,
+                                color:
+                                    isCurrentPage ? Colors.blue : Colors.grey,
+                              ),
                             ),
                           ),
-                        ),
-                      );
-                    }),
-                  ),
+                        );
+                      }),
+                    ),
                 ],
               ),
             ),

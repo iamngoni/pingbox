@@ -14,6 +14,7 @@ import '../../../core/configs/colors.dart';
 import '../../../core/models/data/language.dart';
 import '../../../core/state/locale/locale_bloc.dart';
 import '../../../core/widgets/pingbox_dropdown_button.dart';
+import '../../../l10n/l10n.dart';
 
 class LanguageOnboardingSection extends StatefulWidget {
   const LanguageOnboardingSection({
@@ -82,7 +83,7 @@ class _LanguageOnboardingSectionState extends State<LanguageOnboardingSection> {
               height: sy(20),
             ),
             PingboxDropdownButton(
-              hint: 'Language',
+              hint: context.l10n.onboardingLanguageHint,
               items: Language.values,
               value: language,
               onChanged: (v) {

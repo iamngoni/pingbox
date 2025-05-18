@@ -44,5 +44,9 @@
     "onboarding4Button": "Get Started",
     "@onboarding4Button": {
         "description": "Button text for starting the app"
+    },
+    "onboardingLanguageHint": "Language",
+    "@onboardingLanguageHint": {
+        "description": "Language"
     }
 }

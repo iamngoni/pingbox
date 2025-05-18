@@ -73,7 +73,7 @@ class PingboxDropdownButton<T> extends StatelessWidget {
                     Text(
                       item.toString(),
                       style: TextStyle(
-                        color: PingboxColors.white,
+                        color: PingboxColors.navyBlue,
                         fontWeight: FontWeight.w400,
                         fontSize: sy(9),
                       ),
