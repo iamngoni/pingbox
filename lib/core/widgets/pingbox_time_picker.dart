@@ -13,8 +13,8 @@ import 'package:relative_scale/relative_scale.dart';
 import '../configs/colors.dart';
 import 'time_picker_controller.dart';
 
-class TycheTimePicker extends StatelessWidget {
-  const TycheTimePicker({
+class PingboxTimePicker extends StatelessWidget {
+  const PingboxTimePicker({
     required this.hint,
     required this.controller,
     this.validator,

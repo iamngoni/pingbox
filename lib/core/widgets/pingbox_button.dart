@@ -11,13 +11,13 @@ import 'package:relative_scale/relative_scale.dart';
 
 import '../configs/colors.dart';
 
-class TycheButton extends StatelessWidget {
-  const TycheButton({
+class PingboxButton extends StatelessWidget {
+  const PingboxButton({
     required this.text,
     this.onTap,
     this.color = PingboxColors.navyBlue,
     this.backgroundColor = PingboxColors.lightBlue,
-    this.borderRadius = 30,
+    this.borderRadius = 12,
     this.verticalPadding = 10,
     this.loading = false,
     super.key,

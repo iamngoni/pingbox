@@ -11,8 +11,8 @@ import 'package:relative_scale/relative_scale.dart';
 
 import '../configs/colors.dart';
 
-class TycheSensitiveTextField extends StatefulWidget {
-  const TycheSensitiveTextField({
+class PingboxSensitiveTextField extends StatefulWidget {
+  const PingboxSensitiveTextField({
     required this.controller,
     required this.hint,
     this.readOnly = false,
@@ -30,11 +30,11 @@ class TycheSensitiveTextField extends StatefulWidget {
   final TextInputType keyboardType;
 
   @override
-  State<TycheSensitiveTextField> createState() =>
-      _TycheSensitiveTextFieldState();
+  State<PingboxSensitiveTextField> createState() =>
+      _PingboxSensitiveTextFieldState();
 }
 
-class _TycheSensitiveTextFieldState extends State<TycheSensitiveTextField> {
+class _PingboxSensitiveTextFieldState extends State<PingboxSensitiveTextField> {
   bool obscureText = true;
 
   void toggleObscureText() {

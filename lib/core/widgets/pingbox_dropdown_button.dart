@@ -13,8 +13,8 @@ import 'package:relative_scale/relative_scale.dart';
 
 import '../configs/colors.dart';
 
-class TycheDropdownButton<T> extends StatelessWidget {
-  const TycheDropdownButton({
+class PingboxDropdownButton<T> extends StatelessWidget {
+  const PingboxDropdownButton({
     required this.hint,
     required this.items,
     required this.onChanged,

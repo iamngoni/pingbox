@@ -1,7 +1,48 @@
 {
     "@@locale": "en",
-    "counterAppBarTitle": "Counter",
-    "@counterAppBarTitle": {
-        "description": "Text shown in the AppBar of the Counter Page"
+    "offlineTitle": "Device Offline?",
+    "@offlineTitle": {
+        "description": "Offline title"
+    },
+    "offlineDescription": "Your device is currently offline and not connected to the internet. Please check your connection.",
+    "@offlineDescription": {
+        "description": "Offline description"
+    },
+    "offlineButtonText": "All Better Now?",
+    "@offlineButtonText": {
+        "description": "Offline page button text"
+    },
+    "onboarding1Title": "Monitor Your Endpoints",
+    "onboarding1Description": "Real-time ping monitoring for your APIs and services",
+    "@onboarding1Description": {
+        "description": "Real-time ping monitoring for your APIs and services"
+    },
+    "onboarding2Title": "Test Your APIs",
+    "@onboarding2Title": {
+        "description": "Easily test your APIs with built-in tools"
+    },
+    "onboarding2Description": "Easily test your APIs with our built-in tools.",
+    "@onboarding2Description": {
+        "description": "Description for API testing feature"
+    },
+    "onboarding3Title": "Command Snippets",
+    "@onboarding3Title": {
+        "description": "Save and reuse your favorite command snippets"
+    },
+    "onboarding3Description": "Save and reuse your favorite command snippets.",
+    "@onboarding3Description": {
+        "description": "Description for command snippets feature"
+    },
+    "onboarding4Title": "Choose Your Language",
+    "@onboarding4Title": {
+        "description": "Prompt to choose a language"
+    },
+    "onboarding4Description": "Select your preferred language to get started.",
+    "@onboarding4Description": {
+        "description": "Description for language selection feature"
+    },
+    "onboarding4Button": "Get Started",
+    "@onboarding4Button": {
+        "description": "Button text for starting the app"
     }
 }

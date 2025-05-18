@@ -13,9 +13,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:relative_scale/relative_scale.dart';
 
+import '../../l10n/l10n.dart';
 import '../configs/colors.dart';
 import '../state/connectivity_status/connectivity_status_bloc.dart';
-import 'tyche_button.dart';
+import 'pingbox_button.dart';
 
 class DeviceOfflinePage extends StatelessWidget {
   const DeviceOfflinePage({super.key});
@@ -40,16 +41,16 @@ class DeviceOfflinePage extends StatelessWidget {
                     Platform.isAndroid
                         ? Icons.wifi_off_rounded
                         : CupertinoIcons.wifi_slash,
-                    color: Colors.white,
+                    color: PingboxColors.white,
                     size: sy(30),
                   ),
                   SizedBox(
                     height: sy(20),
                   ),
                   Text(
-                    'Device Offline',
+                    context.l10n.offlineTitle,
                     style: TextStyle(
-                      color: Colors.white,
+                      color: PingboxColors.white,
                       fontWeight: FontWeight.w700,
                       fontSize: sy(12),
                     ),
@@ -58,10 +59,9 @@ class DeviceOfflinePage extends StatelessWidget {
                     height: sy(3),
                   ),
                   Text(
-                    'Your device is currently offline and not connected to the '
-                    'internet. Please check your connection.',
+                    context.l10n.offlineDescription,
                     style: TextStyle(
-                      color: Colors.white,
+                      color: PingboxColors.white,
                       fontWeight: FontWeight.w400,
                       fontSize: sy(9),
                     ),
@@ -70,8 +70,8 @@ class DeviceOfflinePage extends StatelessWidget {
                   SizedBox(
                     height: sy(20),
                   ),
-                  TycheButton(
-                    text: 'All Better Now?',
+                  PingboxButton(
+                    text: context.l10n.offlineButtonText,
                     onTap: () {
                       context
                           .read<ConnectivityStatusBloc>()

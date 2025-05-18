@@ -32,6 +32,7 @@ class PingboxApp extends StatelessWidget {
             colorScheme: ColorScheme.fromSeed(
               seedColor: PingboxColors.navyBlue,
             ),
+            fontFamily: 'IBM Plex Mono',
             useMaterial3: true,
           ),
           localizationsDelegates: AppLocalizations.localizationsDelegates,

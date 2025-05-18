@@ -13,8 +13,8 @@ import 'package:relative_scale/relative_scale.dart';
 import '../configs/colors.dart';
 import 'date_picker_controller.dart';
 
-class TycheDatePicker extends StatelessWidget {
-  const TycheDatePicker({
+class PingboxDatePicker extends StatelessWidget {
+  const PingboxDatePicker({
     required this.hint,
     required this.controller,
     required this.firstDate,

@@ -11,8 +11,8 @@ import 'package:relative_scale/relative_scale.dart';
 
 import '../configs/colors.dart';
 
-class TycheTextField extends StatefulWidget {
-  const TycheTextField({
+class PingboxTextField extends StatefulWidget {
+  const PingboxTextField({
     required this.controller,
     required this.hint,
     this.label,
@@ -42,10 +42,10 @@ class TycheTextField extends StatefulWidget {
   final bool obscureText;
 
   @override
-  State<TycheTextField> createState() => _TycheTextFieldState();
+  State<PingboxTextField> createState() => _PingboxTextFieldState();
 }
 
-class _TycheTextFieldState extends State<TycheTextField> {
+class _PingboxTextFieldState extends State<PingboxTextField> {
   late bool _obscureText;
 
   @override
