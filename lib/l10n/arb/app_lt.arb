@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Įrenginys atsijungęs?",
+  "offlineDescription": "Jūsų įrenginys šiuo metu atsijungęs nuo interneto. Prašome patikrinti savo ryšį.",
+  "offlineButtonText": "Viskas gerai dabar?",
+  "onboarding1Title": "Stebėkite savo galinius taškus",
+  "onboarding1Description": "Realaus laiko ping stebėjimas jūsų API ir paslaugoms",
+  "onboarding2Title": "Išbandykite savo API",
+  "onboarding2Description": "Lengvai išbandykite savo API su mūsų įrankiais.",
+  "onboarding3Title": "Komandų fragmentai",
+  "onboarding3Description": "Išsaugokite ir naudokite savo mėgstamus komandų fragmentus.",
+  "onboarding4Title": "Pasirinkite savo kalbą",
+  "onboarding4Description": "Pasirinkite pageidaujamą kalbą, kad pradėtumėte.",
+  "onboarding4Button": "Pradėti",
+  "onboardingLanguageHint": "Kalba"
+}

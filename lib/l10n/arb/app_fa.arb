@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "دستگاه آفلاین؟",
+  "offlineDescription": "دستگاه شما در حال حاضر آفلاین است و به اینترنت متصل نیست. لطفاً اتصال خود را بررسی کنید.",
+  "offlineButtonText": "حالا همه‌چیز خوبه؟",
+  "onboarding1Title": "پایان\fها\fرا\fسازماندهی\fکنید",
+  "onboarding1Description": "نظارت بر پینگ به صورت لحظه‌ای برای APIها و سرویس‌های شما",
+  "onboarding2Title": "APIهای\fخود\fرا\fتست کنید",
+  "onboarding2Description": "APIهای خود را به راحتی با ابزارهای داخلی ما تست کنید.",
+  "onboarding3Title": "قطعه\fکد\fها\fرا سازماندهی\fکنید",
+  "onboarding3Description": "ذخیره و استفاده مجدد از قطعه‌کدهای موردعلاقه خود.",
+  "onboarding4Title": "زبان\fخود\fرا\fانتخاب\fکنید",
+  "onboarding4Description": "زبان\fموردنظر\fخود\fرا\fانتخاب\fکنید\fتا\fشروع\fکنید.",
+  "onboarding4Button": "شروع\fکنید",
+  "onboardingLanguageHint": "زبان"
+}

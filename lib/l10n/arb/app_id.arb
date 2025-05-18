@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Perangkat Offline?",
+  "offlineDescription": "Perangkat Anda sedang offline dan tidak terhubung ke internet. Mohon periksa koneksi Anda.",
+  "offlineButtonText": "Sudah Baik Sekarang?",
+  "onboarding1Title": "Pantau Endpoint Anda",
+  "onboarding1Description": "Pemantauan ping real-time untuk API dan layanan Anda",
+  "onboarding2Title": "Uji API Anda",
+  "onboarding2Description": "Uji API Anda dengan mudah menggunakan alat bawaan kami.",
+  "onboarding3Title": "Cuplikan Perintah",
+  "onboarding3Description": "Simpan dan gunakan kembali cuplikan perintah favorit Anda.",
+  "onboarding4Title": "Pilih Bahasa Anda",
+  "onboarding4Description": "Pilih bahasa pilihan Anda untuk memulai.",
+  "onboarding4Button": "Mulai",
+  "onboardingLanguageHint": "Bahasa"
+}

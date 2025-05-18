@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Peranti Luar Talian?",
+  "offlineDescription": "Peranti anda kini luar talian dan tidak disambungkan ke internet. Sila periksa sambungan anda.",
+  "offlineButtonText": "Sudah Baik Sekarang?",
+  "onboarding1Title": "Pantau Titik Tamat Anda",
+  "onboarding1Description": "Pemantauan ping masa nyata untuk API dan perkhidmatan anda",
+  "onboarding2Title": "Uji API Anda",
+  "onboarding2Description": "Uji API anda dengan alat terbina dalam kami dengan mudah.",
+  "onboarding3Title": "Petikan Perintah",
+  "onboarding3Description": "Simpan dan guna semula petikan perintah kegemaran anda.",
+  "onboarding4Title": "Pilih Bahasa Anda",
+  "onboarding4Description": "Pilih bahasa pilihan anda untuk bermula.",
+  "onboarding4Button": "Mulakan",
+  "onboardingLanguageHint": "Bahasa"
+}

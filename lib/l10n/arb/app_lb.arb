@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Appriech Offlin?",
+  "offlineDescription": "Ären Apparat ass momentan offline an net mam Internet verbonnen. Kuckt w.e.g. Är Verbindung no.",
+  "offlineButtonText": "Alles besser elo?",
+  "onboarding1Title": "Iwwerwaach Är Endpunkten",
+  "onboarding1Description": "Ëmmeraktuell Ping-Iwwerwaachung fir Är APIs a Servicer",
+  "onboarding2Title": "Test Är APIs",
+  "onboarding2Description": "Test Är APIs einfach mat eisen agebaute Tools.",
+  "onboarding3Title": "Kommando Snippets",
+  "onboarding3Description": "Séchert an notzt Är léifste Kommando Schnipsel erëm.",
+  "onboarding4Title": "Wielt Är Sprooch",
+  "onboarding4Description": "Wielt Är bevorzugte Sprooch, fir unzefänken.",
+  "onboarding4Button": "Ufänken",
+  "onboardingLanguageHint": "Sprooch"
+}

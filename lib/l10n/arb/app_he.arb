@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "המכשיר לא מחובר?",
+  "offlineDescription": "המכשיר שלך כרגע לא מחובר לאינטרנט. בדוק את החיבור שלך.",
+  "offlineButtonText": "הכול טוב עכשיו?",
+  "onboarding1Title": "ניטור נקודות קצה",
+  "onboarding1Description": "ניטור בזמן אמת של ה-API והשירותים שלך",
+  "onboarding2Title": "בדוק את ה-APIs שלך",
+  "onboarding2Description": "בדוק בקלות את ה-APIs שלך בעזרת הכלים המובנים שלנו.",
+  "onboarding3Title": "קטעי פקודה",
+  "onboarding3Description": "שמור והשתמש מחדש בקטעי הפקודה המועדפים עליך.",
+  "onboarding4Title": "בחר את השפה שלך",
+  "onboarding4Description": "בחר את השפה המועדפת עליך כדי להתחיל.",
+  "onboarding4Button": "התחל",
+  "onboardingLanguageHint": "שפה"
+}

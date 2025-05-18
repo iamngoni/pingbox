@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Уредот е офлајн?",
+  "offlineDescription": "Вашиот уред моментално е офлајн и не е поврзан со интернет. Ве молиме проверете ја вашата врска.",
+  "offlineButtonText": "Сега е сè во ред?",
+  "onboarding1Title": "Следете ги вашите крајни точки",
+  "onboarding1Description": "Следење во реално време на вашите API и сервиси",
+  "onboarding2Title": "Тестирајте ги вашите API",
+  "onboarding2Description": "Лесно тестирање на вашите API со нашите вградени алатки.",
+  "onboarding3Title": "Командни снипети",
+  "onboarding3Description": "Зачувајте и повторно користете ги вашите омилени командни снипети.",
+  "onboarding4Title": "Изберете го вашиот јазик",
+  "onboarding4Description": "Изберете го вашиот префериран јазик за да започнете.",
+  "onboarding4Button": "Започнете",
+  "onboardingLanguageHint": "Јазик"
+}

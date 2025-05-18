@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Thiết Bị Ngoại Tuyến?",
+  "offlineDescription": "Thiết bị của bạn hiện đang ngoại tuyến và không được kết nối với internet. Vui lòng kiểm tra kết nối của bạn.",
+  "offlineButtonText": "Đã Sửa Xong?",
+  "onboarding1Title": "Giám Sát Điểm Cuối Của Bạn",
+  "onboarding1Description": "Giám sát ping theo thời gian thực cho API và dịch vụ của bạn",
+  "onboarding2Title": "Kiểm Tra API Của Bạn",
+  "onboarding2Description": "Dễ dàng kiểm tra API của bạn với công cụ tích hợp của chúng tôi.",
+  "onboarding3Title": "Các Đoạn Lệnh Yêu Thích",
+  "onboarding3Description": "Lưu và sử dụng lại các đoạn lệnh yêu thích của bạn.",
+  "onboarding4Title": "Chọn Ngôn Ngữ Của Bạn",
+  "onboarding4Description": "Chọn ngôn ngữ ưa thích của bạn để bắt đầu.",
+  "onboarding4Button": "Bắt Đầu Ngay",
+  "onboardingLanguageHint": "Ngôn Ngữ"
+}

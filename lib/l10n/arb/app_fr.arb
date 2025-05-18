@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Appareil hors ligne ?",
+  "offlineDescription": "Votre appareil est actuellement hors ligne et n'est pas connecté à Internet. Veuillez vérifier votre connexion.",
+  "offlineButtonText": "Tout va mieux maintenant ?",
+  "onboarding1Title": "Surveillez vos points de terminaison",
+  "onboarding1Description": "Surveillance ping en temps réel pour vos API et services",
+  "onboarding2Title": "Testez vos API",
+  "onboarding2Description": "Testez facilement vos API avec nos outils intégrés.",
+  "onboarding3Title": "Extraits de commande",
+  "onboarding3Description": "Enregistrez et réutilisez vos extraits de commande favoris.",
+  "onboarding4Title": "Choisissez votre langue",
+  "onboarding4Description": "Sélectionnez votre langue préférée pour commencer.",
+  "onboarding4Button": "Commencer",
+  "onboardingLanguageHint": "Langue"
+}

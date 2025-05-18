@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Enhet offline?",
+  "offlineDescription": "Din enhet är för närvarande offline och inte ansluten till internet. Kontrollera din anslutning.",
+  "offlineButtonText": "Allt bättre nu?",
+  "onboarding1Title": "Övervaka dina slutpunkter",
+  "onboarding1Description": "Övervakning av ping i realtid för dina API:er och tjänster",
+  "onboarding2Title": "Testa dina API:er",
+  "onboarding2Description": "Testa enkelt dina API:er med våra inbyggda verktyg.",
+  "onboarding3Title": "Kommandobitar",
+  "onboarding3Description": "Spara och återanvänd dina favoritkommandobitar.",
+  "onboarding4Title": "Välj Ditt Språk",
+  "onboarding4Description": "Välj ditt föredragna språk för att komma igång.",
+  "onboarding4Button": "Kom igång",
+  "onboardingLanguageHint": "Språk"
+}

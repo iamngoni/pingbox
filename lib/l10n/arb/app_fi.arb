@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Laite offline-tilassa?",
+  "offlineDescription": "Laitteesi on tällä hetkellä offline-tilassa eikä ole yhdistettynä internetiin. Tarkista yhteytesi.",
+  "offlineButtonText": "Kaikki kunnossa nyt?",
+  "onboarding1Title": "Valvo päätepisteitäsi",
+  "onboarding1Description": "Reaaliaikainen ping-valvonta API:ille ja palveluillesi",
+  "onboarding2Title": "Testaa API:si",
+  "onboarding2Description": "Testaa helposti API:si sisäänrakennetuilla työkaluillamme.",
+  "onboarding3Title": "Komennon katkelmat",
+  "onboarding3Description": "Tallenna ja käytä uudelleen suosikkikomennon katkelmiasi.",
+  "onboarding4Title": "Valitse Kielesi",
+  "onboarding4Description": "Valitse haluamasi kieli aloittaaksesi.",
+  "onboarding4Button": "Aloita",
+  "onboardingLanguageHint": "Kieli"
+}

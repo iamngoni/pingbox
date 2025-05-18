@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "¿Dispositivo sin conexión?",
+  "offlineDescription": "Tu dispositivo está actualmente sin conexión y no está conectado a internet. Por favor, verifica tu conexión.",
+  "offlineButtonText": "¿Todo bien ahora?",
+  "onboarding1Title": "Monitorea tus puntos finales",
+  "onboarding1Description": "Monitoreo de ping en tiempo real para tus APIs y servicios",
+  "onboarding2Title": "Prueba tus APIs",
+  "onboarding2Description": "Prueba tus APIs fácilmente con nuestras herramientas integradas.",
+  "onboarding3Title": "Fragmentos de comando",
+  "onboarding3Description": "Guarda y reutiliza tus fragmentos de comandos favoritos.",
+  "onboarding4Title": "Elige tu idioma",
+  "onboarding4Description": "Selecciona tu idioma preferido para comenzar.",
+  "onboarding4Button": "Comenzar",
+  "onboardingLanguageHint": "Idioma"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Cihaz Çevrimdışı mı?",
+  "offlineDescription": "Cihazınız şu anda çevrimdışı ve internete bağlı değil. Lütfen bağlantınızı kontrol edin.",
+  "offlineButtonText": "Şimdi Her Şey Yolunda mı?",
+  "onboarding1Title": "Uç Noktalarınızı İzleyin",
+  "onboarding1Description": "API'leriniz ve servisleriniz için gerçek zamanlı ping izleme",
+  "onboarding2Title": "API'lerinizi Test Edin",
+  "onboarding2Description": "Yerleşik araçlarımızla API'lerinizi kolayca test edin.",
+  "onboarding3Title": "Komut Parçacıkları",
+  "onboarding3Description": "Favori komut parçacıklarınızı kaydedin ve yeniden kullanın.",
+  "onboarding4Title": "Dil Seçiminizi Yapın",
+  "onboarding4Description": "Başlamak için tercih ettiğiniz dili seçin.",
+  "onboarding4Button": "Başlayın",
+  "onboardingLanguageHint": "Dil"
+}

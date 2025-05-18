@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "डिवाइस ऑफलाइन?",
+  "offlineDescription": "आपका डिवाइस वर्तमान में ऑफ़लाइन है और इंटरनेट से कनेक्ट नहीं है। कृपया अपना कनेक्शन जांचें।",
+  "offlineButtonText": "अब सब ठीक है?",
+  "onboarding1Title": "अपने एंडपॉइंट्स की निगरानी करें",
+  "onboarding1Description": "आपके API और सेवाओं के लिए वास्तविक-समय पिंग मॉनिटरिंग",
+  "onboarding2Title": "अपने API का परीक्षण करें",
+  "onboarding2Description": "हमारे बिल्ट-इन टूल्स के साथ आसानी से अपने API का परीक्षण करें।",
+  "onboarding3Title": "कमांड स्निपेट्स",
+  "onboarding3Description": "अपने पसंदीदा कमांड स्निपेट्स को सहेजें और पुन: उपयोग करें।",
+  "onboarding4Title": "अपनी भाषा चुनें",
+  "onboarding4Description": "शुरू करने के लिए अपनी पसंद की भाषा का चयन करें।",
+  "onboarding4Button": "प्रारंभ करें",
+  "onboardingLanguageHint": "भाषा"
+}

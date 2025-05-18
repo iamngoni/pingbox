@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Zariadenie Offline?",
+  "offlineDescription": "Vaše zariadenie je momentálne offline a nie je pripojené na internet. Skontrolujte svoje pripojenie.",
+  "offlineButtonText": "Všetko je teraz v poriadku?",
+  "onboarding1Title": "Monitorujte svoje koncové body",
+  "onboarding1Description": "Monitorovanie pingov v reálnom čase pre vaše API a služby",
+  "onboarding2Title": "Testujte svoje API",
+  "onboarding2Description": "Jednoducho testujte svoje API s našimi vstavanými nástrojmi.",
+  "onboarding3Title": "Úryvky príkazov",
+  "onboarding3Description": "Ukladajte a znovu používajte svoje obľúbené úryvky príkazov.",
+  "onboarding4Title": "Vyberte si jazyk",
+  "onboarding4Description": "Vyberte si preferovaný jazyk na začiatok.",
+  "onboarding4Button": "Začať",
+  "onboardingLanguageHint": "Jazyk"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Sistimu i si tou?",
+  "offlineDescription": "Sistimu ya hau i khou di si tou nahone a i vhe thendoni ya inthanethe. Hle sedza dzheneleksini yau.",
+  "offlineButtonText": "Zwo Lingana Khou?",
+  "onboarding1Title": "Londola Zwigidi Zwau",
+  "onboarding1Description": "Dzigigigidi tsha tshifhinga-tshilapfu tsha vhuanguli ha dzheneleksini ya API na vhuawudi",
+  "onboarding2Title": "Linga API Dzau",
+  "onboarding2Description": "Linga API dzau nga lutamo lwa dzibvaela.",
+  "onboarding3Title": "Tshibvumela Tsha Mirairo",
+  "onboarding3Description": "U vhulunga na u dovholola mirairo ya u funesa.",
+  "onboarding4Title": "Khetha Lulimi Lwau",
+  "onboarding4Description": "Khetha lulimi lwa u funa u bva haho.",
+  "onboarding4Button": "Thoma Khou",
+  "onboardingLanguageHint": "Lulimi"
+}

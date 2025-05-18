@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Apparaat Offline?",
+  "offlineDescription": "Je apparaat is momenteel offline en niet verbonden met het internet. Controleer je verbinding.",
+  "offlineButtonText": "Alles weer in orde?",
+  "onboarding1Title": "Monitor Je Eindpunten",
+  "onboarding1Description": "Realtime ping-monitoring voor je API's en services",
+  "onboarding2Title": "Test Je API's",
+  "onboarding2Description": "Test eenvoudig je API's met onze ingebouwde tools.",
+  "onboarding3Title": "Opdrachtfragmenten",
+  "onboarding3Description": "Bewaar en hergebruik je favoriete opdrachtfragmenten.",
+  "onboarding4Title": "Kies Je Taal",
+  "onboarding4Description": "Selecteer je voorkeurstaal om te beginnen.",
+  "onboarding4Button": "Aan de slag",
+  "onboardingLanguageHint": "Taal"
+}

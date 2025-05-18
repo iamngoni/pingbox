@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Tirwana e Tsentse?",
+  "offlineDescription": "Tirwana ya gago ga e a tsentse mme ga e a amanngwa le inthanete. Ke kopa o leke go amanya.",
+  "offlineButtonText": "Di Tokafetse Jaanong?",
+  "onboarding1Title": "Bontsha Mokgwa wa Dintho Tsa Gago",
+  "onboarding1Description": "Tlhokomelo ya nako ya nnete ya dipharologanyo tsa dibuka tsa gago le ditirelo",
+  "onboarding2Title": "Botsa Diphasejane Tsa Gago",
+  "onboarding2Description": "Botsa diphasejane tsa gago ka ditlhami tse di tsentsweng mo tirong ya rona.",
+  "onboarding3Title": "Mokgwa wa Ditlhagiso",
+  "onboarding3Description": "Boloka mme o dirise mokgwa wa ditlhagiso tsa gago tse di rategang gantsi.",
+  "onboarding4Title": "Kgetha Puo ya Gago",
+  "onboarding4Description": "Kgetha puo ya gago e o e ratang go simolola.",
+  "onboarding4Button": "Simolola",
+  "onboardingLanguageHint": "Puo"
+}

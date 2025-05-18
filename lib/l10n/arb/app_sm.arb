@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Ua lē fesoʻotaʻi le Mea Faitino?",
+  "offlineDescription": "E lē gata le fesoʻotaʻiga o lau mea faitino ma le initaneti. Fa'amolemole siaki lau feso'ota'iga.",
+  "offlineButtonText": "Ua Lelei Mea Uma Nei?",
+  "onboarding1Title": "Siaki le Seti o Feso'ota'iga",
+  "onboarding1Description": "Vaaiga i taimi moni i le siakiina o alālaupapa ma auaunaga a le APIs",
+  "onboarding2Title": "Su'e Lou APIs",
+  "onboarding2Description": "Faigofie ona su'e a matou APIs i meafaigaluega fa'apitoa.",
+  "onboarding3Title": "Snippets Poloa'iga",
+  "onboarding3Description": "Teu ma toe fa'aogaina au poloa'iga sili ona e fiafia i ai.",
+  "onboarding4Title": "Filifili Lou Gagana",
+  "onboarding4Description": "Filifili lou gagana e te fiafia ai e amata.",
+  "onboarding4Button": "Amata Nei",
+  "onboardingLanguageHint": "Gagana"
+}

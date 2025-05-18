@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Enheten er frakoblet?",
+  "offlineDescription": "Enheten din er for øyeblikket frakoblet og ikke tilkoblet internett. Vennligst sjekk tilkoblingen din.",
+  "offlineButtonText": "Alt bedre nå?",
+  "onboarding1Title": "Overvåk Dine Endepunkter",
+  "onboarding1Description": "Sanntid ping-overvåkning for dine API-er og tjenester",
+  "onboarding2Title": "Test Dine API-er",
+  "onboarding2Description": "Test enkelt dine API-er med våre innebygde verktøy.",
+  "onboarding3Title": "Kommando Snippets",
+  "onboarding3Description": "Lagre og gjenbruk dine favoritt kommando-snippets.",
+  "onboarding4Title": "Velg Ditt Språk",
+  "onboarding4Description": "Velg ditt foretrukne språk for å komme i gang.",
+  "onboarding4Button": "Kom i gang",
+  "onboardingLanguageHint": "Språk"
+}

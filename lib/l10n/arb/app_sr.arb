@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Uređaj je van mreže?",
+  "offlineDescription": "Vaš uređaj trenutno nije povezan na internet. Molimo vas da proverite svoju konekciju.",
+  "offlineButtonText": "Sve je sada u redu?",
+  "onboarding1Title": "Nadgledajte svoje krajnje tačke",
+  "onboarding1Description": "Praćenje ping-a u realnom vremenu za vaše API-je i usluge",
+  "onboarding2Title": "Testirajte svoje API-je",
+  "onboarding2Description": "Lako testirajte svoje API-je pomoću naših ugrađenih alata.",
+  "onboarding3Title": "Komandni isječci",
+  "onboarding3Description": "Sačuvajte i ponovo koristite svoje omiljene komandne isječke.",
+  "onboarding4Title": "Izaberite svoj jezik",
+  "onboarding4Description": "Odaberite svoj preferirani jezik za početak.",
+  "onboarding4Button": "Počnite",
+  "onboardingLanguageHint": "Jezik"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Xikwembu xa le ka le n'walungu?",
+  "offlineDescription": "Xikwembu xa wena xa le n'walungu ni ku nga hlanganisiwi na inthanete. Hleketa xengo ya wena.",
+  "offlineButtonText": "Hinkwato Hi Pele Ka Swa Fu?",
+  "onboarding1Title": "Lavekelani Khonde Ya N'wina",
+  "onboarding1Description": "Pingi ya nkarhi yoleyo eka APIs na vutirheli bya n'wina",
+  "onboarding2Title": "Ringi APIs Ya N'wina",
+  "onboarding2Description": "Ringi hi ku olova APIs ya n'wina hi switirhisa leswi hlayekeke endzeni.",
+  "onboarding3Title": "Swigriri Swa Nawu",
+  "onboarding3Description": "Hlayisa na ku tirhisa nakambe xigriri xa milawu ya wene lexi tsakisaka.",
+  "onboarding4Title": "Khetha Ririmi Ra Wena",
+  "onboarding4Description": "Mhaka, khetha lirimi leri ku tsakelaka ku tiva ro sungula.",
+  "onboarding4Button": "Tiva Xo Sungula",
+  "onboardingLanguageHint": "Ririmi"
+}

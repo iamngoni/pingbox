@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Enhed Offline?",
+  "offlineDescription": "Din enhed er i øjeblikket offline og ikke forbundet til internettet. Kontroller din forbindelse.",
+  "offlineButtonText": "Alt bedre nu?",
+  "onboarding1Title": "Overvåg dine Endpoints",
+  "onboarding1Description": "Realtids ping-overvågning for dine API'er og tjenester",
+  "onboarding2Title": "Test dine API'er",
+  "onboarding2Description": "Test nemt dine API'er med vores indbyggede værktøjer.",
+  "onboarding3Title": "Kommando Snippets",
+  "onboarding3Description": "Gem og genbrug dine foretrukne kommando snippets.",
+  "onboarding4Title": "Vælg dit Sprog",
+  "onboarding4Description": "Vælg dit foretrukne sprog for at komme i gang.",
+  "onboarding4Button": "Kom i gang",
+  "onboardingLanguageHint": "Sprog"
+}

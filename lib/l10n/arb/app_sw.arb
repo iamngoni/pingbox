@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Kifaa Kipo Nje ya Mtandao?",
+  "offlineDescription": "Kifaa chako kwa sasa kipo nje ya mtandao na hakijaunganishwa na intaneti. Tafadhali angalia unganisho lako.",
+  "offlineButtonText": "Yote Sawa Sasa?",
+  "onboarding1Title": "Fuatilia Vituo Vyako",
+  "onboarding1Description": "Ufuatiliaji wa ping wa wakati halisi kwa API zako na huduma.",
+  "onboarding2Title": "Pima API Zako",
+  "onboarding2Description": "Pima API zako kwa urahisi na zana zetu zilizounganishwa.",
+  "onboarding3Title": "Nyakua Amri",
+  "onboarding3Description": "Hifadhi na utumie tena vipande vya amri unavyopenda.",
+  "onboarding4Title": "Chagua Lugha Yako",
+  "onboarding4Description": "Chagua lugha unayopendelea ili kuanza.",
+  "onboarding4Button": "Anza",
+  "onboardingLanguageHint": "Lugha"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Pajisja Jashtë Linje?",
+  "offlineDescription": "Pajisja juaj është aktualisht jashtë linje dhe nuk është e lidhur me internetin. Ju lutemi kontrolloni lidhjen tuaj.",
+  "offlineButtonText": "Gjithçka Mirë Tani?",
+  "onboarding1Title": "Monitoroni Pikat Tuaja të Fundit",
+  "onboarding1Description": "Monitorimi në kohë reale i ping për API-të dhe shërbimet tuaja",
+  "onboarding2Title": "Testoni API-të Tuaja",
+  "onboarding2Description": "Testoni lehtësisht API-të tuaja me mjetet tona të ndërtuara.",
+  "onboarding3Title": "Fraksione Komande",
+  "onboarding3Description": "Ruani dhe ripërdorni fraksionet tuaja të preferuara të komandave.",
+  "onboarding4Title": "Zgjidhni Gjuhën Tuaj",
+  "onboarding4Description": "Zgjidhni gjuhën tuaj të preferuar për të filluar.",
+  "onboarding4Button": "Filloni",
+  "onboardingLanguageHint": "Gjuha"
+}

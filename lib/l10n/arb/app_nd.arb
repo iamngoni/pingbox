@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Isisetshenziswa Asixhunyiwe ku-Inthanethi?",
+  "offlineDescription": "Isisetshenziswa sakho asixhunyiwe ku-inthanethi njengamanje. Sicela uhlole uxhumano lwakho.",
+  "offlineButtonText": "Sengilungile Manje?",
+  "onboarding1Title": "Qapha Ama-Endpoints Akho",
+  "onboarding1Description": "Ukuskena kwe-ping yesikhathi sangempela kuma-API nezinsiza zakho",
+  "onboarding2Title": "Hlola Ama-API Akho",
+  "onboarding2Description": "Hlola kalula ama-API akho ngethuluzi lethu elakhelwe ngaphakathi.",
+  "onboarding3Title": "Iziqeshana Zomyalo",
+  "onboarding3Description": "Gcina uphinde usebenzise iziqeshana zakho zomyalo ozikhethayo.",
+  "onboarding4Title": "Khetha Ulimi Lwakho",
+  "onboarding4Description": "Khetha ulimi lwakho olukhethayo ukuze uqale.",
+  "onboarding4Button": "Qala Manje",
+  "onboardingLanguageHint": "Ulimi"
+}

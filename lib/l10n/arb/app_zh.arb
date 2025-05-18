@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "设备离线？",
+  "offlineDescription": "您的设备当前未连接到互联网。请检查您的连接。",
+  "offlineButtonText": "现在一切正常了吗？",
+  "onboarding1Title": "监控您的端点",
+  "onboarding1Description": "为您的API和服务提供实时ping监控",
+  "onboarding2Title": "测试您的 API",
+  "onboarding2Description": "使用我们的内置工具轻松测试您的API。",
+  "onboarding3Title": "命令片段",
+  "onboarding3Description": "保存并重用您喜欢的命令片段。",
+  "onboarding4Title": "选择您的语言",
+  "onboarding4Description": "选择您的首选语言以开始使用。",
+  "onboarding4Button": "开始",
+  "onboardingLanguageHint": "语言"
+}

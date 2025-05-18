@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Устройство офлайн?",
+  "offlineDescription": "Ваше устройство в настоящее время не подключено к интернету. Пожалуйста, проверьте подключение.",
+  "offlineButtonText": "Все исправлено?",
+  "onboarding1Title": "Контролируйте Ваши конечные точки",
+  "onboarding1Description": "Мониторинг ваших API и сервисов в реальном времени",
+  "onboarding2Title": "Тестируйте Ваши API",
+  "onboarding2Description": "Легко тестируйте ваши API с помощью встроенных инструментов.",
+  "onboarding3Title": "Фрагменты команд",
+  "onboarding3Description": "Сохраняйте и повторно используйте свои любимые фрагменты команд.",
+  "onboarding4Title": "Выберите Ваш язык",
+  "onboarding4Description": "Выберите предпочтительный язык, чтобы начать.",
+  "onboarding4Button": "Начать",
+  "onboardingLanguageHint": "Язык"
+}

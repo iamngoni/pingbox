@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Dispositiu fora de línia?",
+  "offlineDescription": "El teu dispositiu està actualment fora de línia i no connectat a Internet. Si us plau, comprova la teva connexió.",
+  "offlineButtonText": "Tot en ordre ara?",
+  "onboarding1Title": "Monitora els teus punts finals",
+  "onboarding1Description": "Monitoratge de ping en temps real per a les teves API i serveis",
+  "onboarding2Title": "Prova les teves API",
+  "onboarding2Description": "Prova fàcilment les teves API amb les nostres eines integrades.",
+  "onboarding3Title": "Fragments de comandes",
+  "onboarding3Description": "Guarda i reutilitza els teus fragments de comandes favorits.",
+  "onboarding4Title": "Tria el teu idioma",
+  "onboarding4Description": "Selecciona el teu idioma preferit per començar.",
+  "onboarding4Button": "Comença",
+  "onboardingLanguageHint": "Idioma"
+}

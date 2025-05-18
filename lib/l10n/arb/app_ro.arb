@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Dispozitiv Neconectat?",
+  "offlineDescription": "Dispozitivul tău nu este conectat la internet în acest moment. Te rugăm să verifici conexiunea.",
+  "offlineButtonText": "Totul este bine acum?",
+  "onboarding1Title": "Monitorizează Punctele Tale Finale",
+  "onboarding1Description": "Monitorizare în timp real a interfețelor și serviciilor tale API",
+  "onboarding2Title": "Testează Interfețele Tale API",
+  "onboarding2Description": "Testează cu ușurință interfețele tale API cu instrumentele noastre încorporate.",
+  "onboarding3Title": "Fragmente de Comandă",
+  "onboarding3Description": "Salvează și refolosește fragmentele tale de comandă preferate.",
+  "onboarding4Title": "Alege Limba Ta",
+  "onboarding4Description": "Selectează limba preferată pentru a începe.",
+  "onboarding4Button": "Începe",
+  "onboardingLanguageHint": "Limbă"
+}

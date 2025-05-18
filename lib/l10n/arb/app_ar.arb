@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "الجهاز غير متصل؟",
+  "offlineDescription": "جهازك غير متصل حاليًا بالإنترنت. يرجى التحقق من اتصالك.",
+  "offlineButtonText": "هل كل شيء بخير الآن؟",
+  "onboarding1Title": "مراقبة نقاط النهاية الخاصة بك",
+  "onboarding1Description": "مراقبة زمن الاستجابة في الوقت الفعلي لواجهة برمجة التطبيقات والخدمات الخاصة بك",
+  "onboarding2Title": "اختبر واجهات برمجة التطبيقات الخاصة بك",
+  "onboarding2Description": "قم باختبار واجهات برمجة التطبيقات الخاصة بك بسهولة باستخدام الأدوات المدمجة لدينا.",
+  "onboarding3Title": "مقتطفات الأوامر",
+  "onboarding3Description": "احفظ وأعد استخدام مقتطفات الأوامر المفضلة لديك.",
+  "onboarding4Title": "اختر لغتك",
+  "onboarding4Description": "حدد اللغة المفضلة لديك للبدء.",
+  "onboarding4Button": "ابدأ الآن",
+  "onboardingLanguageHint": "اللغة"
+}

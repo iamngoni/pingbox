@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Прылада не падключана?",
+  "offlineDescription": "Ваша прылада ў цяперашні час не падключана да Інтэрнэту. Калі ласка, праверце падключэнне.",
+  "offlineButtonText": "Усё лепш цяпер?",
+  "onboarding1Title": "Сачыце за Вашымі Спасылкамі",
+  "onboarding1Description": "Маніторынг вашых API і сэрвісаў у рэальным часе",
+  "onboarding2Title": "Тэстуйце Вашы API",
+  "onboarding2Description": "Лёгка тэстуйце вашы API з нашымі ўбудаванымі інструментамі.",
+  "onboarding3Title": "Фрагменты Каманд",
+  "onboarding3Description": "Захоўвайце і паўторна выкарыстоўвайце любімыя фрагменты каманд.",
+  "onboarding4Title": "Выберыце Вашу Мову",
+  "onboarding4Description": "Выберыце ваш упадабаны мову для пачатку.",
+  "onboarding4Button": "Пачаць",
+  "onboardingLanguageHint": "Мова"
+}

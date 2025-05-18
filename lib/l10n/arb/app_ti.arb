@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "መሳርያ ኣይኮነን ምድላይ?",
+  "offlineDescription": "መሳርያኻ ህሉው ድሕሪት ኣይኮነን እዩን ከምኡ ከምዝነብር እዩ ኢንተርነት። ምምርማር ዝጽርድ መርበብካ።",
+  "offlineButtonText": "ከምገለ ይበጽሕ ህድኣ?",
+  "onboarding1Title": "መእተዊታትካ ከታኣል",
+  "onboarding1Description": "ድሕሪት ኩነታት ዝምልከት ምትንኣሻ ኣብ ኤ.ፒ.ኣይዎታትካ ከምኡ ኣገልግሎት ኣብ ሰዓት",
+  "onboarding2Title": "ኤ.ፒ.ኣይዎታትካ ፈትን",
+  "onboarding2Description": "ኤ.ፒ.ኣይዎታትካ ቀላል ይፈትኑታ ብዑደት ኣገዳሲ መጠቀሚ መሳርያዮም።",
+  "onboarding3Title": "ትእዛዝ ክፍሎት",
+  "onboarding3Description": "ትእዛዝ ኣቃም ናይ መፍትዕትካ ማለይ ከምገለ ይጥቀመሉ።",
+  "onboarding4Title": "ቋንቋካ ምረጽ",
+  "onboarding4Description": "ምረጽ ቋንቋ ምርጫኻ ንጀምር።",
+  "onboarding4Button": "ጀሚሩ",
+  "onboardingLanguageHint": "ቋንቋ"
+}

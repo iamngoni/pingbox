@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Naprava brez povezave?",
+  "offlineDescription": "Vaša naprava trenutno ni povezana z internetom. Preverite svojo povezavo.",
+  "offlineButtonText": "Je zdaj bolje?",
+  "onboarding1Title": "Spremljajte svoje končne točke",
+  "onboarding1Description": "Spremljanje ping signalov v realnem času za vaše API-je in storitve",
+  "onboarding2Title": "Testirajte svoje API-je",
+  "onboarding2Description": "Preprosto testirajte svoje API-je z našimi vgrajenimi orodji.",
+  "onboarding3Title": "Izrezki ukazov",
+  "onboarding3Description": "Shranite in ponovno uporabite svoje najljubše izrezke ukazov.",
+  "onboarding4Title": "Izberite svoj jezik",
+  "onboarding4Description": "Izberite želeni jezik za začetek.",
+  "onboarding4Button": "Začetek",
+  "onboardingLanguageHint": "Jezik"
+}

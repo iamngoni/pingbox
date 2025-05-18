@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "อุปกรณ์ออฟไลน์?",
+  "offlineDescription": "อุปกรณ์ของคุณตอนนี้ออฟไลน์และไม่ได้เชื่อมต่ออินเทอร์เน็ต กรุณาตรวจสอบการเชื่อมต่อของคุณ",
+  "offlineButtonText": "ตอนนี้ทุกอย่างดีขึ้นหรือยัง?",
+  "onboarding1Title": "ตรวจสอบจุดสิ้นสุดของคุณ",
+  "onboarding1Description": "การตรวจสอบการ ping แบบเรียลไทม์สำหรับ API และบริการของคุณ",
+  "onboarding2Title": "ทดสอบ API ของคุณ",
+  "onboarding2Description": "ทดสอบ API ของคุณได้อย่างง่ายดายด้วยเครื่องมือที่มีให้",
+  "onboarding3Title": "สคริปต์คำสั่ง",
+  "onboarding3Description": "บันทึกและใช้งานสคริปต์คำสั่งที่คุณชื่นชอบซ้ำได้",
+  "onboarding4Title": "เลือกภาษาของคุณ",
+  "onboarding4Description": "เลือกภาษาที่คุณต้องการเพื่อเริ่มต้น",
+  "onboarding4Button": "เริ่มต้น",
+  "onboardingLanguageHint": "ภาษา"
+}

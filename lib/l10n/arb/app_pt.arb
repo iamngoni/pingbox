@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Dispositivo Offline?",
+  "offlineDescription": "Seu dispositivo está atualmente offline e não está conectado à internet. Verifique sua conexão.",
+  "offlineButtonText": "Tudo Melhor Agora?",
+  "onboarding1Title": "Monitore Seus Endpoints",
+  "onboarding1Description": "Monitoramento de ping em tempo real para suas APIs e serviços",
+  "onboarding2Title": "Teste Suas APIs",
+  "onboarding2Description": "Teste facilmente suas APIs com nossas ferramentas integradas.",
+  "onboarding3Title": "Snippets de Comando",
+  "onboarding3Description": "Salve e reutilize seus snippets de comando favoritos.",
+  "onboarding4Title": "Escolha Seu Idioma",
+  "onboarding4Description": "Selecione seu idioma preferido para começar.",
+  "onboarding4Button": "Começar",
+  "onboardingLanguageHint": "Idioma"
+}

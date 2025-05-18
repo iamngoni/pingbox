@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Idivayisi Ayixhunyiwe?",
+  "offlineDescription": "Idivayisi yakho ayikaxhunywa okwamanje futhi ayixhunyiwe kwi-inthanethi. Sicela uhlole uxhumano lwakho.",
+  "offlineButtonText": "Kulungile Manje?",
+  "onboarding1Title": "Bheka Iziphetho Zakho",
+  "onboarding1Description": "Ukubhekwa kwezikhathi zangempela kuma-API neziphetho zakho",
+  "onboarding2Title": "Hlola Ama-API Akho",
+  "onboarding2Description": "Hlola kalula ama-API akho ngamathuluzi ethu afakiwe.",
+  "onboarding3Title": "Izithombe Zomyalo",
+  "onboarding3Description": "Gcina futhi usebenzise kabusha iziqeshana zakho zomyalo ozithandayo.",
+  "onboarding4Title": "Khetha Ulimi Lwakho",
+  "onboarding4Description": "Khetha ulimi oluthandayo ukuze uqale.",
+  "onboarding4Button": "Qala",
+  "onboardingLanguageHint": "Ulimi"
+}

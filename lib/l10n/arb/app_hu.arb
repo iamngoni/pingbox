@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Eszköz Offline?",
+  "offlineDescription": "Az eszköz jelenleg offline állapotban van, és nincs csatlakozva az internethez. Kérjük, ellenőrizze a kapcsolatot.",
+  "offlineButtonText": "Már minden rendben?",
+  "onboarding1Title": "Figyelje az Egyeségeit",
+  "onboarding1Description": "Valós idejű ping figyelés az API-khoz és szolgáltatásokhoz",
+  "onboarding2Title": "Tesztelje az API-it",
+  "onboarding2Description": "Tesztelje könnyedén az API-it a beépített eszközeinkkel.",
+  "onboarding3Title": "Parancs Szegmensek",
+  "onboarding3Description": "Mentse és használja újra kedvenc parancs szegmenseit.",
+  "onboarding4Title": "Válassza Meg Nyelvét",
+  "onboarding4Description": "Válassza ki a kívánt nyelvet a kezdéshez.",
+  "onboarding4Button": "Kezdés",
+  "onboardingLanguageHint": "Nyelv"
+}

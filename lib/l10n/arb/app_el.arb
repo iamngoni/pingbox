@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Συσκευή εκτός σύνδεσης;",
+  "offlineDescription": "Η συσκευή σας είναι εκτός σύνδεσης και δεν είναι συνδεδεμένη στο διαδίκτυο. Παρακαλώ ελέγξτε τη σύνδεσή σας.",
+  "offlineButtonText": "Όλα καλά τώρα;",
+  "onboarding1Title": "Παρακολουθήστε τα Σημείο Τερματισμού σας",
+  "onboarding1Description": "Παρακολούθηση ping σε πραγματικό χρόνο για τα API και τις υπηρεσίες σας",
+  "onboarding2Title": "Δοκιμάστε τα API σας",
+  "onboarding2Description": "Δοκιμάστε εύκολα τα API σας με τα ενσωματωμένα εργαλεία μας.",
+  "onboarding3Title": "Αποσπάσματα Εντολών",
+  "onboarding3Description": "Αποθηκεύστε και επαναχρησιμοποιήστε τα αγαπημένα σας αποσπάσματα εντολών.",
+  "onboarding4Title": "Επιλέξτε τη Γλώσσα σας",
+  "onboarding4Description": "Επιλέξτε την προτιμώμενη γλώσσα σας για να ξεκινήσετε.",
+  "onboarding4Button": "Ξεκινήστε",
+  "onboardingLanguageHint": "Γλώσσα"
+}

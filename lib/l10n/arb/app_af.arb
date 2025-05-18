@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Toestel Vanlyn?",
+  "offlineDescription": "Jou toestel is tans vanlyn en nie aan die internet gekoppel nie. Kyk asseblief na jou verbinding.",
+  "offlineButtonText": "Alles Nou Reg?",
+  "onboarding1Title": "Monitor Jou Eindpunte",
+  "onboarding1Description": "Reële tyd ping monitering vir jou API's en dienste",
+  "onboarding2Title": "Toets Jou API's",
+  "onboarding2Description": "Toets jou API's maklik met ons ingeboude gereedskap.",
+  "onboarding3Title": "Opdragsnippets",
+  "onboarding3Description": "Stoor en hergebruik jou gunsteling opdragsnippets.",
+  "onboarding4Title": "Kies Jou Taal",
+  "onboarding4Description": "Kies jou voorkeurtaal om te begin.",
+  "onboarding4Button": "Begin Nou",
+  "onboardingLanguageHint": "Taal"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Seade on ühenduseta?",
+  "offlineDescription": "Teie seade on hetkel ühenduseta ja ei ole internetiga ühendatud. Palun kontrollige oma ühendust.",
+  "offlineButtonText": "Kas kõik on nüüd korras?",
+  "onboarding1Title": "Jälgige oma lõpp-punkte",
+  "onboarding1Description": "Reaalajas ping-kontroll teie API-de ja teenuste jaoks",
+  "onboarding2Title": "Testige oma API-sid",
+  "onboarding2Description": "Testige oma API-sid meie sisseehitatud tööriistadega.",
+  "onboarding3Title": "Käsu snippetid",
+  "onboarding3Description": "Salvestage ja kasutage uuesti oma lemmik käsusnippeteid.",
+  "onboarding4Title": "Valige oma keel",
+  "onboarding4Description": "Valige alustamiseks oma eelistatud keel.",
+  "onboarding4Button": "Alustame",
+  "onboardingLanguageHint": "Keel"
+}

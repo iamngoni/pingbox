@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Isixhobo Esingenawukhala?",
+  "offlineDescription": "Isixhobo sakho asixhunyiwe kwi-intanethi ngoku. Nceda ujonge uqhagamshelo lwakho.",
+  "offlineButtonText": "Kulungile Ngoku?",
+  "onboarding1Title": "Jonga Izichazi-zincwadi Zakho",
+  "onboarding1Description": "Ukuhlola ubuhlolo be-APIs kunye neenkonzo zakho kumaxesha angoonaphakade",
+  "onboarding2Title": "Vavanya ii-APIs Zakho",
+  "onboarding2Description": "Vavanya ngokulula ii-APIs zakho ngezixhobo esizakhele yona.",
+  "onboarding3Title": "Isiqwengana Seempumlo",
+  "onboarding3Description": "Gcina uphinde usebenzise iziqwengana zakho ozithandayo.",
+  "onboarding4Title": "Khetha Ulwimi Lwakho",
+  "onboarding4Description": "Khetha ulwimi lwakho olukhethayo ukuze uqale.",
+  "onboarding4Button": "Qalisa",
+  "onboardingLanguageHint": "Ulwimi"
+}

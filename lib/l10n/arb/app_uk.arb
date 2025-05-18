@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Пристрій офлайн?",
+  "offlineDescription": "Ваш пристрій зараз офлайн і не підключений до інтернету. Будь ласка, перевірте підключення.",
+  "offlineButtonText": "Все гаразд зараз?",
+  "onboarding1Title": "Моніторте свої кінцеві точки",
+  "onboarding1Description": "Моніторинг ваших API та сервісів у режимі реального часу",
+  "onboarding2Title": "Тестуйте свої API",
+  "onboarding2Description": "Легко тестуйте ваші API за допомогою наших вбудованих інструментів.",
+  "onboarding3Title": "Фрагменти команд",
+  "onboarding3Description": "Зберігайте та використовуйте повторно ваші улюблені фрагменти команд.",
+  "onboarding4Title": "Виберіть свою мову",
+  "onboarding4Description": "Виберіть бажану мову, щоб почати.",
+  "onboarding4Button": "Почати",
+  "onboardingLanguageHint": "Мова"
+}

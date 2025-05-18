@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "デバイスがオフラインですか？",
+  "offlineDescription": "お使いのデバイスは現在オフラインで、インターネットに接続されていません。接続を確認してください。",
+  "offlineButtonText": "問題は解決しましたか？",
+  "onboarding1Title": "エンドポイントを監視する",
+  "onboarding1Description": "APIやサービスのリアルタイム・ピング監視",
+  "onboarding2Title": "APIをテストする",
+  "onboarding2Description": "組み込みツールを使用して簡単にAPIテストが可能。",
+  "onboarding3Title": "コマンドスニペット",
+  "onboarding3Description": "お気に入りのコマンドスニペットを保存して再利用。",
+  "onboarding4Title": "言語を選択",
+  "onboarding4Description": "開始するには、好みの言語を選んでください。",
+  "onboarding4Button": "始めましょう",
+  "onboardingLanguageHint": "言語"
+}

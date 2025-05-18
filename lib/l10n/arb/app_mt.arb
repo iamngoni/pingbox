@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Apparat Mhux Konness?",
+  "offlineDescription": "L-apparat tiegħek bħalissa mhuwiex konness u mhux imqabbad mal-internet. Jekk jogħġbok iċċekkja l-konnessjoni tiegħek.",
+  "offlineButtonText": "Kollox Iva Issa?",
+  "onboarding1Title": "Immonitorja l-End Points Tiegħek",
+  "onboarding1Description": "Monitoraġġ tal-ping f’ħin reali għall-APIs u servizzi tiegħek",
+  "onboarding2Title": "Ittestja l-APIs tiegħek",
+  "onboarding2Description": "Ittestja l-APIs tiegħek b’mod faċli bl-għodda mibnija tagħna.",
+  "onboarding3Title": "Qosra tal-Kmand",
+  "onboarding3Description": "Ħlief u uża mill-ġdid il-qosra tal-kmand favoriti tiegħek.",
+  "onboarding4Title": "Agħżel il-Lingwa Tiegħek",
+  "onboarding4Description": "Agħżel il-lingwa tal-preferenza tiegħek biex tibda.",
+  "onboarding4Button": "Ibda",
+  "onboardingLanguageHint": "Lingwa"
+}

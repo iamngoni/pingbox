@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Tæki ótengt?",
+  "offlineDescription": "Tækið þitt er ótengt og ekki tengt við internetið. Vinsamlegast athugaðu tenginguna þína.",
+  "offlineButtonText": "Allt í góðu núna?",
+  "onboarding1Title": "Fylgstu með endapunktunum þínum",
+  "onboarding1Description": "Rauntíma eftirlit með ping fyrir vefþjónustur og þjónustur.",
+  "onboarding2Title": "Prófaðu vefþjónustur þínar",
+  "onboarding2Description": "Prófaðu auðveldlega vefþjónustur þínar með innbyggðum tólum.",
+  "onboarding3Title": "Skipanalínubrot",
+  "onboarding3Description": "Vistaðu og notaðu uppáhalds skipanalínubrotin þín aftur.",
+  "onboarding4Title": "Veldu tungumál þitt",
+  "onboarding4Description": "Veldu það tungumál sem þér líkar best við til að byrja.",
+  "onboarding4Button": "Byrjaðu",
+  "onboardingLanguageHint": "Tungumál"
+}

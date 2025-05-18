@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Tól spælda?",
+  "offlineDescription": "Títt tól er í løtuni ótengt og ikki knýtt at alnótini. Vinarliga kannað tína knýting.",
+  "offlineButtonText": "Alt í lagi nú?",
+  "onboarding1Title": "Eftirlit við tínar endapunktar",
+  "onboarding1Description": "Rættstundis eftirlit við tínar API’ar og tænastur",
+  "onboarding2Title": "Roys tínar API'ar",
+  "onboarding2Description": "Roys tínar API'ar við okkara innbygdu amboðum.",
+  "onboarding3Title": "Kommando brot",
+  "onboarding3Description": "Goym og brúka aftur tínar yndis kommando brot.",
+  "onboarding4Title": "Vel títt mál",
+  "onboarding4Description": "Vel títt yndismál fyri at byrja.",
+  "onboarding4Button": "Byrja",
+  "onboardingLanguageHint": "Mál"
+}

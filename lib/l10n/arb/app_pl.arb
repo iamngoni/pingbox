@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Urządzenie offline?",
+  "offlineDescription": "Twoje urządzenie jest obecnie offline i nie jest połączone z internetem. Sprawdź swoje połączenie.",
+  "offlineButtonText": "Już wszystko w porządku?",
+  "onboarding1Title": "Monitoruj swoje końcówki",
+  "onboarding1Description": "Monitorowanie API i usług w czasie rzeczywistym",
+  "onboarding2Title": "Testuj swoje API",
+  "onboarding2Description": "Łatwe testowanie API za pomocą naszych wbudowanych narzędzi.",
+  "onboarding3Title": "Fragmenty poleceń",
+  "onboarding3Description": "Zapisuj i wykorzystuj ponownie ulubione fragmenty poleceń.",
+  "onboarding4Title": "Wybierz swój język",
+  "onboarding4Description": "Wybierz preferowany język, aby rozpocząć.",
+  "onboarding4Button": "Rozpocznij",
+  "onboardingLanguageHint": "Język"
+}

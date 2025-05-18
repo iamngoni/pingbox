@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Ierīce bezsaistē?",
+  "offlineDescription": "Jūsu ierīce pašlaik ir bezsaistē un nav izveidots savienojums ar internetu. Lūdzu, pārbaudiet savu savienojumu.",
+  "offlineButtonText": "Vai viss tagad ir kārtībā?",
+  "onboarding1Title": "Uzraugiet savus galapunktus",
+  "onboarding1Description": "Reāllaika ping monitorings jūsu API un pakalpojumiem",
+  "onboarding2Title": "Pārbaudiet savus API",
+  "onboarding2Description": "Viegli testēt savus API ar mūsu iebūvētiem rīkiem.",
+  "onboarding3Title": "Komandu fragmenti",
+  "onboarding3Description": "Saglabājiet un atkārtoti izmantojiet savus iecienītos komandu fragmentus.",
+  "onboarding4Title": "Izvēlieties savu valodu",
+  "onboarding4Description": "Izvēlieties savu vēlamo valodu, lai sāktu.",
+  "onboarding4Button": "Sākt",
+  "onboardingLanguageHint": "Valoda"
+}

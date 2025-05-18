@@ -1,1 +1,15 @@
-{}
+{
+  "offlineTitle": "Sesebelisoa se sa Marangrang?",
+  "offlineDescription": "Sesebelisoa sa hao ha se hokahane le inthanete hajoale. Ka kopo hlahloba khokahano ea hao.",
+  "offlineButtonText": "Tsohle li Lokile Joale?",
+  "onboarding1Title": "Hlokomela Litsela tsa Hao",
+  "onboarding1Description": "Tlhokomelo ea nako ea sebele ea 'ping' bakeng sa APIs le lits'ebeletso tsa hau",
+  "onboarding2Title": "Lekola Lits'ebeletso tsa Hao tsa API",
+  "onboarding2Description": "Lekola habonolo API tsa hao ka lisebelisoa tse hahelletsoeng.",
+  "onboarding3Title": "Likhopi tsa Melao",
+  "onboarding3Description": "Boloka le ho sebelisa hape likhopi tsa litaelo tse u li ratang.",
+  "onboarding4Title": "Khetha Puo ea Hao",
+  "onboarding4Description": "Khetha puo eo u e ratang ho qala.",
+  "onboarding4Button": "Qala",
+  "onboardingLanguageHint": "Puo"
+}
