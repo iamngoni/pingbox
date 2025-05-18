@@ -69,9 +69,9 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   await SentryFlutter.init(
     (options) {
       options
-        ..dsn = TycheConstants.sentryDsn
+        ..dsn = PingboxConstants.sentryDsn
         ..tracesSampleRate = 1.0
-        ..environment = TycheConstants.currentEnvironment.name
+        ..environment = PingboxConstants.currentEnvironment.name
         ..compressPayload = true
         ..addIntegration(LoggingIntegration());
     },

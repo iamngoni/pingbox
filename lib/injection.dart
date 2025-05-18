@@ -22,7 +22,7 @@ import 'injection.config.dart';
 final GetIt getIt = GetIt.instance
   ..registerSingleton<Dio>(
     Dio()
-      ..options.baseUrl = TycheConstants.currentEnvironment.baseUrl
+      ..options.baseUrl = PingboxConstants.currentEnvironment.baseUrl
       ..interceptors.add(CurlLoggerDioInterceptor(printOnSuccess: true))
       ..interceptors.add(DioRequestInterceptor())
       ..interceptors.add(

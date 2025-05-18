@@ -7,10 +7,10 @@
 
 import 'environment.dart';
 
-class TycheConstants {
-  const TycheConstants._();
+class PingboxConstants {
+  const PingboxConstants._();
 
   static const String sentryDsn =
-      'https://6541fd93161edd97a663b8e970234c47@o1107818.ingest.us.sentry.io/4508683674779648';
+      'https://94b7c7a4922218716b5b321711e5712f@o1107818.ingest.us.sentry.io/4509343790727168';
   static Environment currentEnvironment = Environment.development;
 }
