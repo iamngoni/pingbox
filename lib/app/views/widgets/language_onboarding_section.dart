@@ -85,8 +85,7 @@ class _LanguageOnboardingSectionState extends State<LanguageOnboardingSection> {
             ),
             PingboxDropdownButton(
               hint: context.l10n.onboardingLanguageHint,
-              items:
-                  Language.values.where((l) => l.isSupportedByFlutter).toList(),
+              items: Language.values,
               value: language,
               onChanged: (v) {
                 if (v != null) {
