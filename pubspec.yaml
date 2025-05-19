@@ -28,7 +28,7 @@ dependencies:
     json_annotation: ^4.9.0
     jwt_decode: ^0.3.1
     modal_bottom_sheet: ^3.0.0-pre
-    network_info_plus: ^4.0.2
+    network_info_plus: ^6.1.4
     package_info_plus: ^8.0.2
     path: ^1.8.0
     path_provider:
